@@ -1,0 +1,44 @@
+form{
+   text-align: center;
+}
+.photo{
+    margin-left: -8px;
+    margin-top: -9px;
+}
+.title{
+    font-family: 'Russo One', sans-serif;
+    text-align: center;
+    margin-top: 50px;
+}
+.vpp{
+    border: 2px solid #196CCF;
+box-sizing: border-box;
+border-radius: 30px;
+width: 345px;
+height: 50px;
+padding-left: 30px;
+outline: none;
+margin-top:30px ;
+}
+.vpp::placeholder{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 18px;
+line-height: 25px;
+color: rgba(0, 0, 0, 0.7);
+}
+.btn{
+    background: #275FBF;
+box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+border-radius: 30px;
+font-family: 'Open Sans';
+font-style: normal;
+font-weight: bold;
+font-size: 18px;
+line-height: 25px;
+/* identical to box height */
+text-align: center;
+color: white;
+padding:12px 129px 13px 129px ;
+margin-top: 47px ;
+margin-left: 10px;
+}
